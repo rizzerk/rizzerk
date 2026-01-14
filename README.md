@@ -26,12 +26,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzerk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzerk&theme=default&show_icons=true&hide_border=true&layout=compact" alt="rizzerk's GitHub Stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizzerk)](https://github.com/rizzerk/github-readme-stats)
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizzerk)](https://github.com/rizzerk/github-readme-stats)
-
 ###
 
 <div align="left">
