@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://giphy.com/explore/coding-cat"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2trZHM1ZWtqcW5jMjhsbDU4MWc5dTRtOTBvenZ0OXpncmRieHZ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
 
